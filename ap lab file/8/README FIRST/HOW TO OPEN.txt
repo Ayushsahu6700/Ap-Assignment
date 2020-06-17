@@ -1,0 +1,12 @@
+steps:
+1)first make your localhost server
+2)in local host open (ap.php) file not any other.
+3)make your entry and submit
+4)to view your entry open in phpmyadmin
+
+
+or 
+
+
+
+****see my preview vedio
